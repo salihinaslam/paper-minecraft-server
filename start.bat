@@ -1,0 +1,1 @@
+java -Xms2000M -Xmx2000M -jar purpur-1.21.8-2497.jar

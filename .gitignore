@@ -1,0 +1,11 @@
+# Redownloadable server files (regenerated on start)
+libraries/
+cache/
+versions/
+plugins/.paper-remapped/
+
+# Runtime logs
+logs/
+
+# Runtime lock
+session.lock
